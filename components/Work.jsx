@@ -15,8 +15,7 @@ const Work = ({isDarkMode}) => {
       </motion.h2>
 
       <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.7, duration: 0.5 }} className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-        Welcome to my portfolio! Here you can explore a selection of projects that reflect my journey as a fullstack developer. Each project represents my passion for exploring the latest technologies, building modern
-        digital solutions, and creating meaningful impact for individuals, startups, and businesses.
+        Explore my portfolio to see how i use the latest technologies to build impactful digital solutions that help individual, startups, adn business growth.
       </motion.p>
 
       <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.9, duration: 0.6 }} className="grid grid-cols-auto my-10 gap-5 dark:text-black">
