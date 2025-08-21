@@ -30,7 +30,7 @@ const Header = () => {
         initial={{opacity: 0}}
         whileInView={{opacity: 1}}
         transition={{duration: 0.6, delay: 0.7}}
-        className='max-w-2xl mx-auto font-Ovo'>
+        className='max-w-2xl mx-auto font-Ovo text-sm'>
         Exploring the latest technologies to build impacful digital solutions, enhance usere expriences, and grow sustainable business.
         </motion.p>
 

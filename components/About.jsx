@@ -20,8 +20,9 @@ const About = ({ isDarkMode }) => {
         </motion.div>
         <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.6, delay: 0.8 }} className="flex-1">
           <p className="mb-10 max-w-2xl font-Ovo">
-            I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing
-            to their success and growth.
+            I am a fullstack developer based in Central Java who is deeply passionate about technology and its potential to shape the future. Over the years, I have continuously explored the latest innovations, learning
+            how to turn ideas into meaningful digital solutions that not only improve user experiences but also support long-term business growth. Alongside my work in development, I have also immersed myself in stock
+            investment and web3, as I believe that understanding both technology and business is essential to staying relevant in an ever-changing digital landscape.
           </p>
 
           <motion.ul initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.8, delay: 1 }} className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl">
