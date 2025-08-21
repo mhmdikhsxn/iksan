@@ -31,7 +31,7 @@ const Header = () => {
         whileInView={{opacity: 1}}
         transition={{duration: 0.6, delay: 0.7}}
         className='max-w-2xl mx-auto font-Ovo'>
-        Exploring the latest technologies to build solution and grow business.
+        Exploring the latest technologies to build impacful digital solutions, enhance usere expriences, and grow sustainable business.
         </motion.p>
 
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
