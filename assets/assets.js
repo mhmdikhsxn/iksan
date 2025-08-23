@@ -107,8 +107,8 @@ export const serviceData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Skills', description: 'HTML, CSS, JavaScript, TypeScript, TailwindCSS, MySQL,NextJS, NodeJS, ExpresJS, ReactJS, VueJS, Laravel, MongoDB' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Mechatronis Engineering in SMKN 2 Sukoharjo' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Skills', description: 'HTML, CSS, JavaScript, TypeScript, TailwindCSS, Python, C++, PHP, Golang, MySQL, NextJS, NodeJS, ExpresJS, ReactJS, VueJS, Laravel, MongoDB, PostgreSQL, LibSQL, Prisma, Arduino, IoT' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Mechatronics Engineering in SMKN 2 Sukoharjo' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
