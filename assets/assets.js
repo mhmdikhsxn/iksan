@@ -78,8 +78,8 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Fullstack project',
-        description: 'Web Design',
+        title: 'Course School',
+        description: 'Web Development',
         bgImage: '/work-1.png',
     },
     {
@@ -107,9 +107,9 @@ export const serviceData = [
 ]
 
 export const infoList = [
-  { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: "Languages", description: "HTML, CSS, JavaScript,TailwindCSS, MySQL, NextJS, NodeJS, Pythom, ReactJS, VueJS, MongoDB" },
-  { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: "Education", description: "Mechatronics Engineering at SMKN 2 Sukoharjo"},
-  { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: "Projects", description: "Built more than 5 projects" },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Skills', description: 'HTML, CSS, JavaScript, TypeScript, TailwindCSS, MySQL,NextJS, NodeJS, ExpresJS, ReactJS, VueJS, Laravel, MongoDB' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Mechatronis Engineering in SMKN 2 Sukoharjo' },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
 export const toolsData = [
